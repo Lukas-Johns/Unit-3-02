@@ -1,0 +1,16 @@
+.table-format {
+  border: 1px dotted crimson;
+  margin: 40px 10px 20px 30px;
+  padding: 3px;
+  width: 200px;
+}
+.first {
+  color: royalblue;
+  margin: 100px;
+  border: 50px outset red;
+}
+.Dragon {
+  border: 18px double darkorange;
+  margin: 0px 50px 50px 50px;
+  width: 75%;
+}
